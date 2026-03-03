@@ -1,0 +1,16 @@
+# XAKCN Trading Bot - Dependencies
+
+# Core
+pandas>=1.5.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Binance Spot (Primary data/trading source)
+python-binance>=1.0.19
+
+# Optional - TA-Lib for advanced indicators
+# ta-lib  # Requires TA-Lib C library installation
+
+# Development
+pytest>=7.0.0
+pytest-cov>=4.0.0
