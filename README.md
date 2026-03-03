@@ -144,3 +144,13 @@ python main.py --mode optimize --symbol BTCUSDT --days 365 --trials 100
 Notes:
 - In `TEST_MODE`, if testnet candles repeat for many cycles, the bot auto-switches to Binance live public endpoint for data refresh.
 - To force live data from startup, use `--binance-live-endpoint`.
+
+---
+
+## Disclaimer
+
+This software is provided for **educational and research purposes only**.
+
+Trading cryptocurrencies involves substantial risk of loss. Past performance — including any backtest results shown here — is not indicative of future results. This bot does not constitute financial advice.
+
+**Use at your own risk.** The author(s) accept no responsibility for any financial losses, damages, or other consequences resulting from the use of this software. Always test thoroughly on testnet before any live deployment.
